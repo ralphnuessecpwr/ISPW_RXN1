@@ -1,4 +1,0 @@
-         MACRO
-         CLAMAC01
-         WTO   ' Message from ASM Macro CLAMAC01',ROUTCDE=(11),DESC=(7)
-.END     MEND
